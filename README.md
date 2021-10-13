@@ -1,17 +1,14 @@
 # Android-retrofit-gson-RestAPIRequestforComplainRegistration
-## Ordering Game (Speedy Order)
+## Complain APP (API is Hosted)
 
-This game will let you order random objects based on given time. If counter down timer ends, or incorrect target order, your life will be deducted by one. 
-
-`SQLite DB`  for storing best score.
-`PhotoShop` for Graphic design
+This Android Application will let you register your complain based on JWT Authentication/Authorization of NodeJS API. This Application uses Retrofit and gson. And this Application properly implements lists with RecyclerView and this application has pagination for rendering data from the API for RecyclerView   
+you can simply download and use this android application.
 
 ## Check the Game video/image/online 
+use username = ss and password = ss  if you dont want to create account
+<a href="https://appetize.io/app/e9wue6198vcu5u6aqzx90n7d5r">Check the Application online </a>
 
-<a href="https://drive.google.com/uc?id=13ggSTfV4T9Q-mcXZHv1DW2AldCzhh8OY">Screen Record</a><br>
-<a href="https://appetize.io/app/35dn0dp9jc71tux61e1nkewqdw">Play Online</a>
-
-### Image of the game
+### Image of the Application
 <p float="left">
 <img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/login.PNG" width="250" height="450" />
 <img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/registeration.PNG" width="250" height="450" />
