@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/loginCard"
+    app:cardCornerRadius="@dimen/loginCardRadius"
+    android:layout_gravity="center"
+    android:layout_marginTop="@dimen/loginViewsMargin"
+    android:layout_marginBottom="@dimen/loginViewsMargin"
+    android:background="@color/whiteCardColor">
+
+    <LinearLayout
+        style="@style/linearParent"
+        android:layout_gravity="center"
+        android:padding="@dimen/loginViewsMargin">
+
+        <TextView
+            style="@style/headerTextPrimary"
+            android:text="ምዝገባ"
+            android:layout_marginTop="@dimen/loginViewsMargin"/>
+        <androidx.cardview.widget.CardView
+            style="@style/parent"
+            android:layout_marginTop="@dimen/signup_text_margin_top">
+            <EditText
+                android:id="@+id/subject"
+                android:inputType="textMultiLine"
+                style="@style/modifiedEditText"
+                android:minLines="3"
+                android:importantForAutofill="no"
+                android:hint="Subject"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            style="@style/parent"
+            android:layout_marginTop="@dimen/signup_text_margin_top">
+            <EditText
+                android:id="@+id/message"
+                android:inputType="textMultiLine"
+                android:minLines="8"
+                style="@style/modifiedEditText"
+                android:textIsSelectable="true"
+                android:hint="your complain"
+                android:text=""
+                android:importantForAutofill="no"
+                android:maxLines="10"
+               />
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/registerButton"
+            style="@style/loginButton"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:text="ይመዝገቡ" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
