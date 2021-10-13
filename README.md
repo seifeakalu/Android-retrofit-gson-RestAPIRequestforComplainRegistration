@@ -3,7 +3,7 @@
 
 This Android Application will let you register your complain based on JWT Authentication/Authorization of NodeJS API. This Application uses Retrofit and gson and to store the JWT token, it uses sharedpreference and encoding/decoding technique means, the actual JWT token is not stored to Shared preference storage. And this Application properly implements lists with RecyclerView and this application has pagination for rendering data from the API for RecyclerView   
 you can simply download and use this android application.<br><br>
-full source code granted 	:sunglasses: download and use it make sure to make adjustment.
+full source code granted 	:sunglasses: you can download and use it, but make sure to make adjustment.
 
 ## Check the Application online 
 use username = ss and password = ss  if you dont want to create account
