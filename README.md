@@ -13,7 +13,7 @@ This game will let you order random objects based on given time. If counter down
 
 ### Image of the game
 <p float="left">
-<img src="https://github.com/seifeakalu/Ordering_Game/blob/master/APK%20and%20Screen_Shots/Screen_shot1.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Ordering_Game/blob/master/APK%20and%20Screen_Shots/Screen_shot2.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Ordering_Game/blob/master/APK%20and%20Screen_Shots/Screen_shot3.jpg" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/login.PNG" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/registeration.PNG" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/mainpage.PNG" width="250" height="450" />
 </p>
