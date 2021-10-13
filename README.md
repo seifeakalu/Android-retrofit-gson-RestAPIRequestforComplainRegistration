@@ -1,11 +1,11 @@
 ### AndroidRecyclerView-retrofit-gson-RestAPIRequestforComplainRegistration
-## Complain APP (API is Hosted)
+### Complain APP (API is Hosted)
 
 This Android Application will let you register your complain based on JWT Authentication/Authorization of NodeJS API. This Application uses <b>Retrofit and gson</b>, and <b>to store the JWT token, it uses sharedpreference and Encoding/Decoding technique</b>. Means, the actual JWT token is not stored to Shared preference storage. And this Application properly implements <b>lists with RecyclerView and this application has pagination load more data on scroll</b> for rendering data from the API on RecyclerView   
 you can simply download and use this android application.<br><br>
 full source code granted 	:sunglasses: you can download and use it, but make sure to adjust.
 
-## Check the Application online 
+### Check the Application online 
 if you dont want to create account, use username = ss and password = ss 
 <br>
 <a href="https://appetize.io/app/e9wue6198vcu5u6aqzx90n7d5r">Check the Application online </a><br>
