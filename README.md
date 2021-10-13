@@ -15,4 +15,6 @@ if you dont want to create account, use username = ss and password = ss
 <img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/login.PNG" width="250" height="450" />
 <img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/registeration.PNG" width="250" height="450" />
 <img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/mainpage.PNG" width="250" height="450" />
+ <img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/menu.PNG" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/add.PNG" width="250" height="450" />
 </p>
