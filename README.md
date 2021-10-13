@@ -9,8 +9,7 @@ full source code granted 	:sunglasses: you can download and use it, but make sur
 if you dont want to create account, use username = ss and password = ss 
 <br>
 <a href="https://appetize.io/app/e9wue6198vcu5u6aqzx90n7d5r">Check the Application online </a><br>
-<a href="
-">Back-end code </a>
+
 ### Image of the Application
 <p float="left">
 <img src="https://github.com/seifeakalu/Android-retrofit-gson-RestAPIRequestforComplainRegistration/blob/master/APK%20file/login.PNG" width="250" height="450" />
