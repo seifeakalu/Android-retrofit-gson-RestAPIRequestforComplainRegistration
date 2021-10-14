@@ -16,7 +16,6 @@ public interface MessageService {
     TokenUtil tUtil = new TokenUtil();
     @GET("message")
     // as we are calling data from array so we are calling
-    // it with array list and naming that method as getAllCourses();
     Call<MessageRequest> getAllMessages(
             @Header("x-access-token") String token, @Query("page")  int page, @Query("size")  int size
     );
