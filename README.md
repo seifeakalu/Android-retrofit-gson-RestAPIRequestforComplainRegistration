@@ -5,10 +5,9 @@ This Android Application will let you register your complain based on JWT Authen
 you can simply download and use this android application.<br><br>
 full source code granted 	:sunglasses: you can download and use it, but make sure to adjust.
 
-### Check the Application online 
-if you dont want to create account, use username = ss and password = ss 
+### Video Record 
 <br>
-<a href="https://appetize.io/app/90f3vwpb4u5ek44z8gxg6d34xm">Check the Application online </a><br>
+<a href="https://drive.google.com/file/d/1tWfC2D0w2wKntuw0G3_LNddGa0DDeLuU/view?usp=share_link">Screen Record </a><br>
 
 ### Image of the Application
 <p float="left">
