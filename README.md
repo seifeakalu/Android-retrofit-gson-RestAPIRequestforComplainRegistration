@@ -6,7 +6,6 @@ you can simply download and use this android application.<br><br>
 full source code granted 	:sunglasses: you can download and use it, but make sure to adjust.
 
 ### Video Record 
-<br>
 <a href="https://drive.google.com/file/d/1tWfC2D0w2wKntuw0G3_LNddGa0DDeLuU/view?usp=share_link">Screen Record </a><br>
 
 ### Image of the Application
